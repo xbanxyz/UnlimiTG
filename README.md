@@ -1,5 +1,5 @@
 # UnlimiTG
-<center><img src="http://image.prntscr.com/image/40065a294d9341359656b8a916e0dcd6.png" /></center>
+<p align="center"><img src="http://image.prntscr.com/image/40065a294d9341359656b8a916e0dcd6.png" /></p><br>
 Talk as a bot on Telegram if you have a limited account
 
 ## How to install
