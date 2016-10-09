@@ -1,0 +1,16 @@
+C:\Users\user\AppData\Local\Temporary Projects\UnlimiTG\bin\Debug\UnlimiTG.exe
+C:\Users\user\AppData\Local\Temporary Projects\UnlimiTG\bin\Debug\UnlimiTG.pdb
+C:\Users\user\AppData\Local\Temporary Projects\UnlimiTG\obj\x86\Debug\UnlimiTG.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\UnlimiTG\obj\x86\Debug\UnlimiTG.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\UnlimiTG\obj\x86\Debug\UnlimiTG.csproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\UnlimiTG\obj\x86\Debug\UnlimiTG.exe
+C:\Users\user\AppData\Local\Temporary Projects\UnlimiTG\obj\x86\Debug\UnlimiTG.pdb
+C:\Users\user\desktop\vs10\Projects\UnlimiTG\UnlimiTG\obj\x86\Debug\UnlimiTG.exe
+C:\Users\user\desktop\vs10\Projects\UnlimiTG\UnlimiTG\obj\x86\Debug\UnlimiTG.pdb
+C:\Users\user\desktop\vs10\Projects\UnlimiTG\UnlimiTG\bin\Debug\UnlimiTG.exe
+C:\Users\user\desktop\vs10\Projects\UnlimiTG\UnlimiTG\bin\Debug\UnlimiTG.pdb
+C:\Users\user\desktop\vs10\Projects\UnlimiTG\UnlimiTG\obj\x86\Debug\UnlimiTG.Form1.resources
+C:\Users\user\desktop\vs10\Projects\UnlimiTG\UnlimiTG\obj\x86\Debug\UnlimiTG.photo.resources
+C:\Users\user\desktop\vs10\Projects\UnlimiTG\UnlimiTG\obj\x86\Debug\UnlimiTG.Properties.Resources.resources
+C:\Users\user\desktop\vs10\Projects\UnlimiTG\UnlimiTG\obj\x86\Debug\UnlimiTG.csproj.GenerateResource.Cache
+C:\Users\user\desktop\vs10\Projects\UnlimiTG\UnlimiTG\obj\x86\Debug\UnlimiTG.csprojResolveAssemblyReference.cache
